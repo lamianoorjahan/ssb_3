@@ -1,0 +1,19 @@
+th,td{
+	border: 1px solid black;
+	padding : 20px;
+}
+
+.inline-prac{
+	border: solid black;
+	background-color: yellow;
+	padding: 50px;
+	text-align: center;
+
+}
+
+
+.header_list{
+
+	list-style-type: none;
+	display: inline-block;
+}
